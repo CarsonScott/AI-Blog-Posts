@@ -1,3 +1,5 @@
+# Building Intelligence AI Blog Posts
+
 A curated list of posts from my blog [Building Intelligence](https://signifiedorigins.wordpress.com) that I've written over the past couple years about AI and related topics. Posts are organized by category, and each category is ordered from oldest-to-newest.
 
 ### Learning Systems
