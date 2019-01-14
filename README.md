@@ -1,17 +1,6 @@
-# building-intelligence-posts
+Blog: [Building Intelligence](https://signifiedorigins.wordpress.com)
 
-A curated list of blog posts about AI and AI related topics that I've written and wanted to organize. Posts are organized by category, and each category is ordered from oldest-to-newest.
-
-### Multi-Agent Systems
-- [Social Intelligence in Multi-Agent Systems](https://signifiedorigins.wordpress.com/2017/05/20/agent-architecture-for-social-intelligence/)
-- [Emergence of Linguistic Capacity in Evolving Multi-Agent Systems](https://signifiedorigins.wordpress.com/2017/06/11/language-development-in-distributed-ai-systems/)
-- [Intelligent Communication in Adaptive Social Systems](https://signifiedorigins.wordpress.com/2018/07/28/intelligent-communication-of-adaptive-societies/)
-- [Power in Systems of Intelligent Agents](https://signifiedorigins.wordpress.com/2018/09/11/social-composition-of-intelligent-agent-systems/)
-
-### Agent Architectures
-- [Hierarchical Model of Agent Intelligence](https://signifiedorigins.wordpress.com/2017/05/24/hierarchical-model-of-agent-intelligence/)
-- [Self-Motivated Intelligent Agents](https://signifiedorigins.wordpress.com/2017/12/03/self-motivated-intelligent-agents/)
-- [Creative Logic Architecture](https://signifiedorigins.wordpress.com/2018/03/01/creative-logic-architecture/)
+A curated list of blog posts about AI and AI related topics that I've written over the past couple years. Posts are organized by category, and each category is ordered from oldest-to-newest.
 
 ### Learning Systems
 - [Self-Organizing Predictions](https://signifiedorigins.wordpress.com/2017/05/20/self-organizing-predictions/)
@@ -27,6 +16,17 @@ A curated list of blog posts about AI and AI related topics that I've written an
 - [Evolutionary Logical Learning](https://signifiedorigins.wordpress.com/2018/06/03/1024/)
 - [Evolutionary-Linguistic Approach to Logical Thought and Behavior](https://signifiedorigins.wordpress.com/2018/06/30/evolutionary-walk-through-linguistic-models-of-cognition/)
 - [A Neural Network for Embodied Intelligence](https://signifiedorigins.wordpress.com/2019/01/14/a-neural-basis-for-embodied-cognition/)
+
+### Agent Architectures
+- [Hierarchical Model of Agent Intelligence](https://signifiedorigins.wordpress.com/2017/05/24/hierarchical-model-of-agent-intelligence/)
+- [Self-Motivated Intelligent Agents](https://signifiedorigins.wordpress.com/2017/12/03/self-motivated-intelligent-agents/)
+- [Creative Logic Architecture](https://signifiedorigins.wordpress.com/2018/03/01/creative-logic-architecture/)
+
+### Multi-Agent Systems
+- [Social Intelligence in Multi-Agent Systems](https://signifiedorigins.wordpress.com/2017/05/20/agent-architecture-for-social-intelligence/)
+- [Emergence of Linguistic Capacity in Evolving Multi-Agent Systems](https://signifiedorigins.wordpress.com/2017/06/11/language-development-in-distributed-ai-systems/)
+- [Intelligent Communication in Adaptive Social Systems](https://signifiedorigins.wordpress.com/2018/07/28/intelligent-communication-of-adaptive-societies/)
+- [Power in Systems of Intelligent Agents](https://signifiedorigins.wordpress.com/2018/09/11/social-composition-of-intelligent-agent-systems/)
 
 ### Miscellaneous
 - [Constraint-Based Type Systems](https://signifiedorigins.wordpress.com/2018/02/24/constraint-based-type-systems/)
