@@ -1,6 +1,4 @@
-Blog: [Building Intelligence](https://signifiedorigins.wordpress.com)
-
-A curated list of blog posts about AI and AI related topics that I've written over the past couple years. Posts are organized by category, and each category is ordered from oldest-to-newest.
+A curated list of posts from my blog [Building Intelligence](https://signifiedorigins.wordpress.com) that I've written over the past couple years about AI and related topics. Posts are organized by category, and each category is ordered from oldest-to-newest.
 
 ### Learning Systems
 - [Self-Organizing Predictions](https://signifiedorigins.wordpress.com/2017/05/20/self-organizing-predictions/)
