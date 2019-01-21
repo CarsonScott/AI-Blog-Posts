@@ -21,6 +21,7 @@ A curated list of posts from my blog [Building Intelligence](https://signifiedor
 - [Hierarchical Model of Agent Intelligence](https://signifiedorigins.wordpress.com/2017/05/24/hierarchical-model-of-agent-intelligence/)
 - [Self-Motivated Intelligent Agents](https://signifiedorigins.wordpress.com/2017/12/03/self-motivated-intelligent-agents/)
 - [Creative Logic Architecture](https://signifiedorigins.wordpress.com/2018/03/01/creative-logic-architecture/)
+- [An Intelligent Agent that Builds High-Level Models to Maximize Fitness](https://signifiedorigins.wordpress.com/2019/01/21/an-intelligent-agent-that-builds-high-level-models-to-maximize-fitness/)
 
 ### Multi-Agent Systems
 - [Social Intelligence in Multi-Agent Systems](https://signifiedorigins.wordpress.com/2017/05/20/agent-architecture-for-social-intelligence/)
