@@ -2,7 +2,7 @@
 
 A curated list of posts from my blog [Building Intelligence](https://signifiedorigins.wordpress.com) that I've written over the past couple years about AI and related topics. Posts are organized by category, and each category is ordered from oldest-to-newest.
 
-__Latest post:__ [Higher Intelligence as Model-Building](https://signifiedorigins.wordpress.com/2019/04/26/higher-intelligence-as-model-building/)
+__Latest post:__ [A Path to Higher Intelligence through Mental Modeling](https://signifiedorigins.wordpress.com/2019/04/26/higher-intelligence-as-model-building/)
 
 ***
 
@@ -27,7 +27,7 @@ __Latest post:__ [Higher Intelligence as Model-Building](https://signifiedorigin
 - [Creative Logic Architecture](https://signifiedorigins.wordpress.com/2018/03/01/creative-logic-architecture/)
 - [An Intelligent Agent that Builds High-Level Models to Maximize Fitness](https://signifiedorigins.wordpress.com/2019/01/21/an-intelligent-agent-that-builds-high-level-models-to-maximize-fitness/)
 - [Predictive Dual-Intelligence](https://signifiedorigins.wordpress.com/2019/01/29/architecture-for-predictive-dual-intelligence/)
-- [Higher Intelligence as Model-Building](https://signifiedorigins.wordpress.com/2019/04/26/higher-intelligence-as-model-building/)
+- [A Path to Higher Intelligence through Mental Modeling](https://signifiedorigins.wordpress.com/2019/04/26/higher-intelligence-as-model-building/)
 
 ### Multi-Agent Systems
 - [Social Intelligence in Multi-Agent Systems](https://signifiedorigins.wordpress.com/2017/05/20/agent-architecture-for-social-intelligence/)
