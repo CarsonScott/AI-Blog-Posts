@@ -2,6 +2,10 @@
 
 A curated list of posts from my blog [Building Intelligence](https://signifiedorigins.wordpress.com) that I've written over the past couple years about AI and related topics. Posts are organized by category, and each category is ordered from oldest-to-newest.
 
+__Latest post:__ [Higher Intelligence as Model-Building](https://signifiedorigins.wordpress.com/2019/04/26/higher-intelligence-as-model-building/)
+
+***
+
 ### Learning Systems
 - [Self-Organizing Predictions](https://signifiedorigins.wordpress.com/2017/05/20/self-organizing-predictions/)
 - [Linguistic Development and Constructed Meaning](https://signifiedorigins.wordpress.com/2017/06/16/social-linguistic-intelligence-in-multi-agent-systems/)
