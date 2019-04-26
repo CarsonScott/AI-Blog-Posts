@@ -23,6 +23,7 @@ A curated list of posts from my blog [Building Intelligence](https://signifiedor
 - [Creative Logic Architecture](https://signifiedorigins.wordpress.com/2018/03/01/creative-logic-architecture/)
 - [An Intelligent Agent that Builds High-Level Models to Maximize Fitness](https://signifiedorigins.wordpress.com/2019/01/21/an-intelligent-agent-that-builds-high-level-models-to-maximize-fitness/)
 - [Predictive Dual-Intelligence](https://signifiedorigins.wordpress.com/2019/01/29/architecture-for-predictive-dual-intelligence/)
+- [Higher Intelligence as Model-Building](https://signifiedorigins.wordpress.com/2019/04/26/higher-intelligence-as-model-building/)
 
 ### Multi-Agent Systems
 - [Social Intelligence in Multi-Agent Systems](https://signifiedorigins.wordpress.com/2017/05/20/agent-architecture-for-social-intelligence/)
