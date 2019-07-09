@@ -2,7 +2,7 @@
 
 A curated list of posts from my blog [Building Intelligence](https://signifiedorigins.wordpress.com) that I've written over the past couple years about AI and related topics. Posts are organized by category, and each category is ordered from oldest-to-newest.
 
-__Latest post:__ [A Predictive Unsupervised Neural Network w/ Spike-Timing Dependent Plasticity](https://signifiedorigins.wordpress.com/2019/05/07/a-predictive-unsupervised-neural-network-w-spike-timing-dependent-plasticity/)
+__Latest post:__ [Unsupervised Hierarchical Feature Learning](https://signifiedorigins.wordpress.com/2019/07/05/unsupervised-hierarchical-feature-learning/)
 
 
 ***
@@ -22,6 +22,7 @@ __Latest post:__ [A Predictive Unsupervised Neural Network w/ Spike-Timing Depen
 - [Evolutionary-Linguistic Approach to Logical Thought and Behavior](https://signifiedorigins.wordpress.com/2018/06/30/evolutionary-walk-through-linguistic-models-of-cognition/)
 - [A Neural Network for Embodied Intelligence](https://signifiedorigins.wordpress.com/2019/01/14/a-neural-basis-for-embodied-cognition/)
 - [A Predictive Unsupervised Neural Network w/ Spike-Timing Dependent Plasticity](https://signifiedorigins.wordpress.com/2019/05/07/a-predictive-unsupervised-neural-network-w-spike-timing-dependent-plasticity/)
+- [Unsupervised Hierarchical Feature Learning](https://signifiedorigins.wordpress.com/2019/07/05/unsupervised-hierarchical-feature-learning/)
 
 ### Agent Architectures
 - [Hierarchical Model of Agent Intelligence](https://signifiedorigins.wordpress.com/2017/05/24/hierarchical-model-of-agent-intelligence/)
